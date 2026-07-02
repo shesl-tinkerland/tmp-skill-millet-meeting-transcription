@@ -1,9 +1,10 @@
 ---
 name: Millet Meeting Transcription
-description: |
+description: >
   Guide users through setting up and running Millet — a fully local meeting
   transcription pipeline with WhisperX speaker diarization, AI summaries,
   and professional PDF output.
+source_url: https://github.com/pretyflaco/millet
 ---
 
 # Millet Meeting Transcription
